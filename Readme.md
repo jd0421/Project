@@ -19,6 +19,11 @@
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%20%EA%B3%A0%EA%B0%9D%20RFM%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills  : python, RFM Segmentation, seaborn, matplotlib 
 
+> 화장품 온라인몰 고객 분석
+- Summary : 행동 패턴과 선호도 분석을 통한 판매 개선 전략 수립
+- Output : [Code]()
+- Skills : python, 전환율 분석, 구매 패턴 분석, background_gradient, matplotlib 
+
 > E-Commerce Sales Data Analysis
 - Summary : 매출 외 각 특성별 상관 분석을 통해 인사이트 발굴 및 모니터링을 위한 대시보드 구축 목표
 - Output  : [Code](https://github.com/jd0421/Datarian_side_project_code/blob/main/E-Commerce%20Sales%20Dataset_250127.sql), [Tableau](https://public.tableau.com/app/profile/alex.noh6655/viz/Profitablilityanalysisforoptimization/1)
