@@ -39,5 +39,5 @@
 ## Contents
 > OTT 컨텐츠 선호도 분석
 - Summary : 컨텐츠와 유저 선호도 분석 통해 인사이트 도출
-- Output  : 
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Content/OTT%20%EC%BB%A8%ED%85%90%EC%B8%A0%20%EC%84%A0%ED%98%B8%EB%8F%84%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills  : python, Distribution Analysis, Time Series Analysis, seaborn, matplotlib, collections
