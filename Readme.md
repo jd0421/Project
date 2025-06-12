@@ -14,12 +14,10 @@
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%B9%B4%EB%93%9C%20%EA%B1%B0%EB%9E%98%20%EC%9D%B4%EB%A0%A5%20%EB%B6%84%EC%84%9D.ipynb) 
 - Skills  : python, Transaction data analysis, Scoring, seaborn, matplotlib 
 
-
 > 고객 RFM 분석 
 - Summary : 구매 데이터 기반 고객 등급 구분을 통해 시장 동향 파악 및 인사이트 도출
-- Output  : [Code]() 
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%9D%B4%EC%BB%A4%EB%A8%B8%EC%8A%A4%20%EA%B3%A0%EA%B0%9D%20RFM%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills  : python, RFM Segmentation, seaborn, matplotlib 
-  
 
 > E-Commerce Sales Data Analysis
 - Summary : 매출 외 각 특성별 상관 분석을 통해 인사이트 발굴 및 모니터링을 위한 대시보드 구축 목표
