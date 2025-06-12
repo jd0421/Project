@@ -21,7 +21,7 @@
 
 > 화장품 온라인몰 고객 분석
 - Summary : 행동 패턴과 선호도 분석을 통한 판매 개선 전략 수립
-- Output : [Code]()
+- Output : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%ED%99%94%EC%9E%A5%ED%92%88%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%AA%B0%20%EA%B3%A0%EA%B0%9D%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills : python, 전환율 분석, 구매 패턴 분석, background_gradient, matplotlib 
 
 > E-Commerce Sales Data Analysis
