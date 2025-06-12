@@ -4,15 +4,15 @@
     - Output  : [Google Colab](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EB%A7%88%ED%8A%B8%20%EC%88%98%EC%9A%94%EB%A7%A4%EC%B6%9C%20%EC%98%88%EC%B8%A1_20250610%20-%202%EC%B0%A8.ipynb)
     - Skills  : python, Correlation, RandomForestRegressor, feature importance, regression
 
-- 콘텐츠 행동 데이터 분석
-    - Summary : GA 데이터 기반 웹사이트 사용자 행동 분석 및 트래픽 저하 이슈 포인트 특정 및 마케팅 전략 수립
-    - Output  : [Google Colab](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%BD%98%ED%85%90%EC%B8%A0%20-%20%EC%9C%A0%EC%A0%80%20%ED%96%89%EB%8F%99%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20-%20GA.ipynb)
-    - Skills  : python, KPI(MAU, Conversion Rate) analysis, Attributes(Device, Geo, trafficSource) analysis
+> 콘텐츠 행동 데이터 분석
+- Summary : GA 데이터 기반 웹사이트 사용자 행동 분석 및 트래픽 저하 이슈 포인트 특정 및 마케팅 전략 수립
+- Output  : [Google Colab](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%BD%98%ED%85%90%EC%B8%A0%20-%20%EC%9C%A0%EC%A0%80%20%ED%96%89%EB%8F%99%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20-%20GA.ipynb)
+- Skills  : python, KPI(MAU, Conversion Rate) analysis, Attributes(Device, Geo, trafficSource) analysis
 
-- 카드 거래 이력 분석을 통한 시장 동향 파악
-    - Summary : 카드 거래 데이터 기반으로 시장 동향 파악 및 인사이트 도출
-    - Output : [Google Colab]() 
-    - Skills : Transaction data analysis, Scoring 
+> 카드 거래 이력 분석을 통한 시장 동향 파악
+- Summary : 카드 거래 데이터 기반으로 시장 동향 파악 및 인사이트 도출
+- Output : [Google Colab](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%B9%B4%EB%93%9C%20%EA%B1%B0%EB%9E%98%20%EC%9D%B4%EB%A0%A5%20%EB%B6%84%EC%84%9D.ipynb) 
+- Skills : Transaction data analysis, Scoring 
 
 - E-Commerce Sales Data Analysis
     - Summary : 매출 외 각 특성별 상관 분석을 통해 인사이트 발굴 및 모니터링을 위한 대시보드 구축 목표
