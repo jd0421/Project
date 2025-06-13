@@ -24,6 +24,11 @@
 - Output : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%ED%99%94%EC%9E%A5%ED%92%88%20%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%AA%B0%20%EA%B3%A0%EA%B0%9D%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills : python, 전환율 분석, 구매 패턴 분석, background_gradient, matplotlib 
 
+> 커머스 데이터 분석 및 CRM 전략 도출
+- Summary : 고객 행동 데이터 분석을 통해 CRM 전략 수립 목표
+- Output : [Code]()
+- Skills : python, 고객 행동 분석(채널 분석, 카테고리 분석, 고객 가치 분석, 이탈 고객 분석), seaborn, matplotlib
+
 > E-Commerce Sales Data Analysis
 - Summary : 매출 외 각 특성별 상관 분석을 통해 인사이트 발굴 및 모니터링을 위한 대시보드 구축 목표
 - Output  : [Code](https://github.com/jd0421/Datarian_side_project_code/blob/main/E-Commerce%20Sales%20Dataset_250127.sql), [Tableau](https://public.tableau.com/app/profile/alex.noh6655/viz/Profitablilityanalysisforoptimization/1)
@@ -62,3 +67,45 @@
 - Summary : 축구선수 평균 연봉의 시기별 트렌드 분석 및, 다른 특성과의 상관성 분석 수행
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Extra/%EC%B6%95%EA%B5%AC%EC%84%A0%EC%88%98%20%EC%9D%B4%EC%A0%81%EC%8B%9C%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills  : python, 시계열 분석, 분포 분석, 상관분석, matplotlib
+
+
+
+
+<!-- 
+
+> 아파트 실거래가 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 호텔 리뷰 심화 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 서울시 범죄현황 데이터 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 보험사 고객 데이터 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 서울 주유소 유가 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 부정 거래 데이터 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+> 따릉이 데이터 분석
+- Summary : 
+- Output : 
+- Skills : 
+
+ -->
