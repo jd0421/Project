@@ -1,3 +1,11 @@
+# Overall
+> 마케터로서 분석으로 가치를 만드는 즐거움을 경험하였습니다.
+> 지식의 부족과 환경의 제약으로 볼 수 없었던 가치를 찾기 위해 분석의 깊이를 더하고 있습니다.
+> 완전한 정답이 아닌, 더 적절한 답은 무엇인지 늘 고민하며 가치를 만들어 나아가겠습니다. 
+<!-- 더  이로써 가치를 이어나가기 위해 관련 경험을 쌓고 있습니다. -->
+
+# Contents
+
 ## Commerce / E-Commerce
 > 마트 수요매출 예측
 - Summary : 인력운영 효율 증대를 위한 매출 증대 영향 요소 파악 및 운영 계획 수립
@@ -26,7 +34,7 @@
 
 > 커머스 데이터 분석 및 CRM 전략 도출
 - Summary : 고객 행동 데이터 분석을 통해 CRM 전략 수립 목표
-- Output : [Code]()
+- Output : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%BB%A4%EB%A8%B8%EC%8A%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills : python, 고객 행동 분석(채널 분석, 카테고리 분석, 고객 가치 분석, 이탈 고객 분석), seaborn, matplotlib
 
 > E-Commerce Sales Data Analysis
