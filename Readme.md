@@ -1,5 +1,3 @@
-
-
 # Overall
 
 ## Jae Deuk Roh
