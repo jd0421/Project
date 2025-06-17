@@ -1,12 +1,18 @@
 # Overall
 
-## Jae Deuk Roh
-- 분석으로 가치를 만들었던 귀중한 경험을 바탕으로, 지난 업에서 볼 수 없었던 가치를 찾기 위해 분석의 깊이를 더하고 있습니다.
-- **문제 해결을 위해 더 나은 방법은 무엇이 있을지** 늘 고민하며 나를 성장시키고 가치를 만들겠습니다.
+## Objective
+- 분석으로 가치를 만들었던 귀중한 경험을 바탕으로, 더 나은 가치를 찾고자 위해 분석의 깊이를 더하고 있습니다.
+- 문제 해결을 위해 더 나은 방법은 무엇이 있을지 고민하며 나를 성장시켜 가치를 만들겠습니다.
 
 # Contents
 
 ## Commerce / E-Commerce
+
+> Marketing ABT Results Analysis
+- Summary : 마케팅 ABT 성과 분석 및 방향성 정립 목표 
+- Output  : [code]()
+- Skills  : python, AB-Test Analysis
+
 > 마트 수요매출 예측
 - Summary : 인력운영 효율 증대를 위한 매출 증대 영향 요소 파악 및 운영 계획 수립
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EB%A7%88%ED%8A%B8%20%EC%88%98%EC%9A%94%EB%A7%A4%EC%B6%9C%20%EC%98%88%EC%B8%A1_20250610%20-%202%EC%B0%A8.ipynb)
@@ -75,6 +81,17 @@
 - Summary : 축구선수 평균 연봉의 시기별 트렌드 분석 및, 다른 특성과의 상관성 분석 수행
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Extra/%EC%B6%95%EA%B5%AC%EC%84%A0%EC%88%98%20%EC%9D%B4%EC%A0%81%EC%8B%9C%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills  : python, 시계열 분석, 분포 분석, 상관분석, matplotlib
+
+
+<!-- 추가로 분석 프로젝트 정리해야 할 것들 
+
+# cohort
+# aarrr funnel 분석
+# a/b test
+-->
+
+
+<!-- reference -->
 
 
 
