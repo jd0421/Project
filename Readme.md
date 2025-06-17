@@ -2,7 +2,7 @@
 
 ## Objective
 - 분석으로 가치를 만들었던 귀중한 경험을 바탕으로, 더 나은 가치를 찾고자 위해 분석의 깊이를 더하고 있습니다.
-- 문제 해결을 위해 더 나은 방법은 무엇이 있을지 고민하며 나를 성장시켜 가치를 만들겠습니다.
+- 문제 해결을 위해 더 나은 방법은 무엇이 있을지 늘 고민하겠습니다.
 
 # Contents
 
@@ -60,6 +60,11 @@
 - Skills  : python, Correlation, LinearRegression, seaborn, matplotlib, regression
 
 ## Finance
+> 은행 고객 Segementation 
+- Summary : 고객 페르소나 정보 기반 세그먼트 구현 및 인사이트 도출
+- Output  : [Code]()
+- Skills  : python, persona based segmentation, scaler, correlation, one-hot-encoding, seaborn, matplotlib, 함수화
+
 > 은행 상품가입고객 예측 및 타겟 마케팅 `수정중`
 - Summary : 마케팅 비용을 줄이기 위해 정기예금 고가입률 고객군 추출 및 타겟팅 전략 수립
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Finance/%EC%9D%80%ED%96%89%20%EC%83%81%ED%92%88%EA%B0%80%EC%9E%85%EA%B3%A0%EA%B0%9D%20%EC%98%88%EC%B8%A1%20%EB%B0%8F%20%ED%83%80%EA%B2%9F%20%EB%A7%88%EC%BC%80%ED%8C%85.ipynb) 
