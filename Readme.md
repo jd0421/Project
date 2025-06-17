@@ -10,7 +10,7 @@
 
 > Marketing ABT Results Analysis
 - Summary : 마케팅 ABT 성과 분석 및 방향성 정립 목표 
-- Output  : [code]()
+- Output  : [code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Marketing%20ABT%20Results%20Analysis.ipynb)
 - Skills  : python, AB-Test Analysis
 
 > 마트 수요매출 예측
