@@ -62,7 +62,7 @@
 ## Finance
 > 은행 고객 Segementation 
 - Summary : 고객 페르소나 정보 기반 세그먼트 구현 및 인사이트 도출
-- Output  : [Code]()
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Finance/%EC%9D%80%ED%96%89%20%EA%B3%A0%EA%B0%9D%20Segmentation.ipynb)
 - Skills  : python, persona based segmentation, scaler, correlation, one-hot-encoding, seaborn, matplotlib, 함수화
 
 > 은행 상품가입고객 예측 및 타겟 마케팅 `수정중`
