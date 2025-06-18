@@ -10,7 +10,7 @@
 
 > Cohort Analysis
 - Summary : 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시
-- Output  : [code]()
+- Output  : [code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb)
 - Skills  : python, Cohort Analysis
 
 > Marketing ABT Results Analysis
