@@ -8,6 +8,11 @@
 
 ## Commerce / E-Commerce
 
+> Cohort Analysis
+- Summary : 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시
+- Output  : [code]()
+- Skills  : python, Cohort Analysis
+
 > Marketing ABT Results Analysis
 - Summary : 마케팅 ABT 성과 분석 및 방향성 정립 목표 
 - Output  : [code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Marketing%20ABT%20Results%20Analysis.ipynb)
