@@ -10,13 +10,18 @@
 
 > Cohort Analysis
 - Summary : 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시
-- Output  : [code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb)
-- Skills  : python, Cohort Analysis
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb)
+- Skills  : python, Cohort Analysis, seaborn, matplotlib
+
+> Funnel Analysis 
+- Summary : 행동 데이터 Funnel 분석 통해 이슈 시기 특정 및 전략 수립 방향 제시
+- Output  : [Code]()
+- Skills  : python, Funnel Analysis, seaborn, matplotlib
 
 > Marketing ABT Results Analysis
 - Summary : 마케팅 ABT 성과 분석 및 방향성 정립 목표 
-- Output  : [code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Marketing%20ABT%20Results%20Analysis.ipynb)
-- Skills  : python, AB-Test Analysis
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Marketing%20ABT%20Results%20Analysis.ipynb)
+- Skills  : python, AB-Test Analysis, seaborn, matplotlib
 
 > 마트 수요매출 예측
 - Summary : 인력운영 효율 증대를 위한 매출 증대 영향 요소 파악 및 운영 계획 수립
