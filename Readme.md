@@ -8,16 +8,17 @@
 
 ## Commerce
 
+- Category : Commerce
+- Title : 커머스 수익률 분석
+- Summary : 지표 구축, 수익률 저하 이슈 구체화, 비즈니스 방향성 제시
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EB%A7%A4%EC%B6%9C-%EC%88%98%EC%9D%B5-%EC%88%98%EC%9D%B5%EB%A5%A0%20%EB%B6%84%EC%84%9D.ipynb)
+- Skills  : python, seaborn, matplotlib
 
-
-| Category | Title               | Summary                                              | Output | Skills                     |
-|----------|---------------------|------------------------------------------------------|--------|----------------------------|
-| Commerce | 커머스 수익률 분석 | 지표 구축, 수익률 저하 이슈 구체화, 비즈니스 방향성 제시 | [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EB%A7%A4%EC%B6%9C-%EC%88%98%EC%9D%B5-%EC%88%98%EC%9D%B5%EB%A5%A0%20%EB%B6%84%EC%84%9D.ipynb) | python, seaborn, matplotlib |
-| Commerce | Cohort Analysis | 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시|[Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb) | python, Cohort Analysis, seaborn, matplotlib |
-
-
----
-
+> 커머스 수익률 분석
+- Summary : 지표 구축, 수익률 저하 이슈 구체화, 비즈니스 방향성 제시
+- Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EB%A7%A4%EC%B6%9C-%EC%88%98%EC%9D%B5-%EC%88%98%EC%9D%B5%EB%A5%A0%20%EB%B6%84%EC%84%9D.ipynb)
+- Skills  : python, seaborn, matplotlib
+ 
 > Cohort Analysis
 - Summary : 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb)
