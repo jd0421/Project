@@ -8,6 +8,11 @@
 
 ## Commerce / E-Commerce
 
+> 커머스 수익률 분석
+- Summary : 지표 구축, 수익률 저하 이슈 구체화, 비즈니스 방향성 제시
+- Output  : [Code]()
+- Skills  : python, seaborn, matplotlib
+ 
 > Cohort Analysis
 - Summary : 특정 코호트에서의 재구매율 패턴 분석 및 대내외 이슈 파악 위한 가이드라인 제시
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/Cohort%20Analysis.ipynb)
