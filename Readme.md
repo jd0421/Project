@@ -58,6 +58,7 @@
 - Summary : 고객 행동 데이터 분석을 통해 CRM 전략 수립 목표
 - Output : [Code](https://github.com/jd0421/Project/blob/main/Commerce_and_E_Commerce/%EC%BB%A4%EB%A8%B8%EC%8A%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
 - Skills : python, 고객 행동 분석(채널 분석, 카테고리 분석, 고객 가치 분석, 이탈 고객 분석), seaborn, matplotlib
+<!-- practice : https://colab.research.google.com/drive/13WxN9bMTzroLKLTtPbsuljXTNhcd5suk#scrollTo=_6HLfI7wqzcU -->
 
 > E-Commerce Sales Data Analysis
 - Summary : 매출 외 각 특성별 상관 분석을 통해 인사이트 발굴 및 모니터링을 위한 대시보드 구축 목표
@@ -122,36 +123,46 @@
 > 아파트 실거래가 분석
 - Summary : 
 - Output : 
+    https://colab.research.google.com/drive/1K5bKZhaN6Wq6UI_-J5164oGjFxneMMYc#scrollTo=dFIj1lETCnWx&uniqifier=1
+    https://colab.research.google.com/drive/1ua6bA275gxQXiDoAa0AwvIyUGoQXaXV3#scrollTo=7w1-8u12doc1
 - Skills : 
 
 > 호텔 리뷰 심화 분석
 - Summary : 
-- Output : 
+- Output : https://colab.research.google.com/drive/1re5lYrMEnom8CJkTriUX7ovx8gydaV_M#scrollTo=zGiXdsbDAo3b
 - Skills : 
 
 > 서울시 범죄현황 데이터 분석
 - Summary : 
-- Output : 
+- Output : https://colab.research.google.com/drive/11ANHHeOPXNiOcLGeYXQ0gAERYU8p8OUV#scrollTo=PKRE8xPmsZdI
 - Skills : 
 
 > 보험사 고객 데이터 분석
-- Summary : 
+- Summary : https://colab.research.google.com/drive/1RyFq7sMxFxUGz12tIV4Bbmx5TPWjWEt4#scrollTo=QwDIc-6Ok22m 
 - Output : 
 - Skills : 
 
 > 서울 주유소 유가 분석
 - Summary : 
-- Output : 
+- Output : https://colab.research.google.com/drive/1vlTc9GaiJgELEoCAkARJRaHx6jnFEP4x#scrollTo=12WlXUY8Sz8E&uniqifier=1
 - Skills : 
 
 > 부정 거래 데이터 분석
 - Summary : 
-- Output : 
+- Output : https://colab.research.google.com/drive/1-AHiM2vveTWyOBlxVUvNDC-BwFojjaj1#scrollTo=BPOH9aQY1_Rn
 - Skills : 
 
 > 따릉이 데이터 분석
 - Summary : 
-- Output : 
+- Output : https://colab.research.google.com/drive/11nTQEKNHXnqp4ZCPgCcXY2GTwkkjPezS#scrollTo=V-4BkLnkgGjw
 - Skills : 
+
+> 개발언어 사용자 분석
+- Summary : 
+- Output : https://colab.research.google.com/drive/1i31raLJ4hpfQaSa9_kw11kNoEAOdSpsU#scrollTo=2v1v121MLiNm
+- Skills : 
+
+
+
 
  -->
