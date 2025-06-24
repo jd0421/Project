@@ -71,8 +71,8 @@
 - Skills  : Apriori algorithm, support, confidence, lift
 
 ## Marketing
-> 가설검증을 통한 마케팅 성과 분석
-- Summary : 정량적 마케팅 성과의 가설검증과 영향력 분석을 통해 일반화 및 퍼포먼스 영향력의 통계적 근거 도출과 비즈니스 인사이트를 제시합니다. 
+> 가설검정을 통한 마케팅 성과 분석
+- Summary : 정량적 마케팅 성과의 가설검정과 영향력 분석을 통해 일반화 및 퍼포먼스 영향력의 통계적 근거 도출과 비즈니스 인사이트를 제시합니다. 
 - Output  : [Code](https://github.com/jd0421/Project/blob/main/Marketing/%EA%B0%80%EC%84%A4%EA%B2%80%EC%A6%9D.ipynb)
 - Skills  : 표본검정(ttest), Cohen's D
 
