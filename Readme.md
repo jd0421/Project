@@ -70,6 +70,12 @@
 - Output  : 
 - Skills  : Apriori algorithm, support, confidence, lift
 
+## Marketing
+> 가설검증을 통한 마케팅 성과 분석
+- Summary : 도출된 정량적 결과의 가설검증과 영향력 분석을 통해 일반화 및 퍼포먼스 영향력의 통계적 근거 도출과 비즈니스 인사이트를 제시합니다. 
+- Output  : 
+- Skills  : 표본검정(ttest), Cohen's D
+
 ## Production 
 > 품질관리를 위한 주요인자 분석
 - Summary : Wine 품질에 영향을 끼치는 주요 공정변수 파악 및 관리 통해 고등급 생산량 증대 목표
@@ -163,6 +169,13 @@
 - Skills : 
 
 
+# ABT, Cohort, Funnel, 가설검증, Real Data
 
+
+Marketing Campaign Performance Data Analysis 
+- Output : https://colab.research.google.com/drive/1cvdL4WdcqxxThHQqRyvwG-kzbFeaLsWi#scrollTo=M5y506DHtjb0
+
+# Data_searching
+- https://colab.research.google.com/drive/1MJVeDiDAz9IeuuAbAFNDihn4OEsm13WF#scrollTo=Y-bPHlGsSPz4
 
  -->
