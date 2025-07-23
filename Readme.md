@@ -43,6 +43,9 @@
 | - | - | - | - | - |
 | 018 | [![python](image/pt_2.png)](https://github.com/jd0421/Project/blob/main/Product/%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A3%BC%EC%9A%94%EC%9D%B8%EC%9E%90%20%EB%B6%84%EC%84%9D.ipynb) | `Extra` | 고품질 제품 생산의 주요 요소 파악 | `python` `상관분석` `회귀분석` |
 | 019 | [![python](image/pt_2.png)](https://github.com/jd0421/Project/blob/main/Content/%EA%B0%9C%EB%B0%9C%EC%96%B8%EC%96%B4%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%B6%84%EC%84%9D.ipynb) | `Extra` | 데이터 측정항목별 조합 및 인사이트 도출 | `python` |
+| 020 | [![python](image/pt_2.png)](https://github.com/jd0421/Project/blob/main/Finance/Customer_Attrition_Expectation_Segmentation_With_Management_Insight_250707.ipynb) | `Finance` | 신용카드 고객 이탈 예측s 및 세그멘테이션 분석 | `python` |
+
+
 
 
 
